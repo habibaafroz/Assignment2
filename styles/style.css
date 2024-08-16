@@ -626,3 +626,51 @@ opacity: 0px;
     gap: 102px;
     opacity: 0px;
     }
+
+
+.foot{
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        width: Hug (1,059px)px;
+       height: Hug (249px)px;
+        top: 66px;
+        left: 190px;
+        gap: 102px;
+        opacity: 0px;
+
+    }
+    
+    .logo, .get-started, .get-started-2 {
+        width: 33%; /* Make each div 33% of the container width */
+        padding: 20px;
+        box-sizing: border-box; /* Include padding and border in the width calculation */
+    }
+
+.footer-section{
+    width: 100%;
+height: 489px;
+gap: 0px;
+opacity: 0px;
+background-color: #222222;
+}
+
+.foot{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: Hug (1,059px)px;
+height: Hug (249px)px;
+top: 66px;
+left: 190px;
+gap: 102px;
+opacity: 0px;
+
+}
+
+.fw{
+ color: antiquewhite;
+}
+
+.start{color: rgba(255, 255, 255, 1);
+}
