@@ -315,9 +315,11 @@ opacity: 0px;
 }
 
 
-.section5{}
+.section2-text{
+  color: antiquewhite;
+}
 
-.meet-team{
+.team-ppl{
   
   width: 60rem;
 }
@@ -358,14 +360,14 @@ opacity: 0px;
   height: 17rem;
 }
 
-.trainer-name{
-
+.name{
+  color: white;
   position: relative;
   bottom: 20%;
   left: 5%;
 }
 
-.trainer-occupation{
+.trainer-text{
   position: relative;
   bottom: 20%;
   left: 5%;
@@ -426,24 +428,7 @@ opacity: 0px;
     display: none;
   }
 
-  /* .ham-menu{
-    width: 50%;
-    margin-left: auto;
-    position: relative;
-  } */
-
-  /* .ham-menu span{
-    border: 2px solid;
-    height: 5px;
-    width: 10%;
-    background-color: white;
-    border-radius: 25px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    transition: .3s ease;
-  } */
+ 
 
   .ham-menu span:nth-child(1){
     top: 25%;
@@ -456,12 +441,10 @@ opacity: 0px;
 
   .nav-nav{
     border: 2px solid;
-    /* display: flex;  */
-    /* justify-content: center;
-    align-items: center; */
+   
   } 
 
-/* slide2 */
+
 .card{
   display: grid;
   grid-template-columns: repeat(2,1fr);
@@ -568,9 +551,9 @@ opacity: 0px;
   }
   
   .logo, .get-started, .get-started-2 {
-      width: 33%; /* Make each div 33% of the container width */
+      width: 33%; 
       padding: 20px;
-      box-sizing: border-box; /* Include padding and border in the width calculation */
+      box-sizing: border-box;\
   }
 
 .footer-section{
