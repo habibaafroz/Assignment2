@@ -7,11 +7,15 @@
   }
   
   /* font 2 */
-  .grey-qo-regular {
-    font-family: "Grey Qo", cursive;
+  
+  .playwrite-tz {
+    font-family: "Playwrite TZ", cursive;
+    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
   }
+  
+  
   
   /* shared styles !!! */
   *{
@@ -606,3 +610,19 @@ opacity: 0px;
     justify-content: center;
     align-content: center;
   }
+/* footer */
+    .logo{
+        width: Fixed (443px)px;
+        height: Hug (176px)px;
+        gap: 20px;
+        opacity: 0px;
+
+    }
+.logo{
+    width: Hug (1,059px)px;
+    height: Hug (249px)px;
+    top: 66px;
+    left: 190px;
+    gap: 102px;
+    opacity: 0px;
+    }
